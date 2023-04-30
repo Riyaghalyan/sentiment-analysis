@@ -2,7 +2,7 @@
 
 This project is about sentiment analysis that uses an image as input to extract keywords or sentences, and then uses a machine learning model to determine whether the sentiment of the input is positive or negative.
 
-#Installation
+# Installation
 1. Clone this repository to your local machine. git clone https://github.com/Riyaghalyan/sentiment-analysis
 2. Navigate to the project directory: cd your-repo
 3. Make sure Python is installed and updated in your system.
@@ -15,12 +15,14 @@ This project is about sentiment analysis that uses an image as input to extract 
 8. Open the app in your web browser at "http://127.0.0.1:5000"
 
 
-#Usage
+# Usage
 1. Run python main.py.
 2. Select an image file to analyze.
 3. Wait for the tool to extract keywords or sentences from the image.
 4. The tool will output the sentiment of the input as either positive or negative
 
-#Models
+# Models
 This project uses two models for sentiment analysis: pre-trained machine learning model that predicts sentiment, and a pre-trained natural language processing model that transforms text data into a matrix of token counts.
+
+# Landing Page 
 
