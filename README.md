@@ -25,5 +25,5 @@ This project is about sentiment analysis that uses an image as input to extract 
 This project uses two models for sentiment analysis: pre-trained machine learning model that predicts sentiment, and a pre-trained natural language processing model that transforms text data into a matrix of token counts.
 
 # Landing Page 
-
+![image](https://raw.githubusercontent.com/Riyaghalyan/sentiment-analysis/main/final_result.png)
 
